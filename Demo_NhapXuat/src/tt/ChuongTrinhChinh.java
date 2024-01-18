@@ -10,7 +10,7 @@ public class ChuongTrinhChinh {
 		String HoTen;
 		
 		Scanner Nhap = new Scanner(System.in); // Lệnh cho phép nhập từ bàn phím
-		 System.out.println("Họ và tên");
+		 System.out.print("Họ và tên:");
 		 HoTen = Nhap.nextLine();
 		 System.out.print("Năm Sinh:");
 		 NamSinh = Nhap.nextInt();
