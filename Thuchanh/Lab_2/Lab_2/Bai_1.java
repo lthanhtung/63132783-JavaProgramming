@@ -3,7 +3,7 @@ package Lab_2;
 import java.util.Scanner;
 
 public class Bai_1 {
-    public static void main(String[] args) {
+    public static void main() {
         double a,b;
         Scanner nhap = new Scanner(System.in);
         System.out.print("Nhập hệ số a:");
@@ -17,5 +17,6 @@ public class Bai_1 {
 
         }
         else System.out.print("Phương trình có nghiệm là:" + -b/a);
+
     }
 }

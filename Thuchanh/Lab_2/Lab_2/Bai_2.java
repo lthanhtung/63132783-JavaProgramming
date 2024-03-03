@@ -1,9 +1,8 @@
 package Lab_2;
-
 import java.util.Scanner;
 
 public class Bai_2 {
-    public static void main(String[] args) {
+    public static void main() {
         double a,b,c;
         Scanner nhap = new Scanner(System.in);
         System.out.print("Nhập hệ số a:");
