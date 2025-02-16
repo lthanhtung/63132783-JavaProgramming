@@ -8,7 +8,5 @@ public class Bai1_DTB {
 		Double DTB = nhap.nextDouble();
 		System.out.println("Họ tên sinh viên: "+HotenSV);
 		System.out.println("Điểm trung bình: "+DTB);
-
 	}
-
 }
